@@ -1,0 +1,15 @@
+I as able to spot the difference instantaneously. no need to actually go through it at all. 
+
+easy access to the entire history of the file to that i can go back to a working version and try and be brave instead of being scare of doing 
+something stupid that i cud probably not recover from. 
+
+cuz git is used for tracking change in codes
+
+type : "git log" to see changes
+changes shown are in descending order. 
+
+to see differences in two versions, type: "git diff " and paste the two versions. 
+
+cuz i can always revert back to a non messed up version. 
+ 
+try using git for android app development
