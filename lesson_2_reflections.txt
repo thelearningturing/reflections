@@ -1,0 +1,4 @@
+an empty git repository is initialized
+no commits are made
+
+staging area is like an intermediate stage. is acts like a buffer so that all files from the directory will not be added to the repository. 
